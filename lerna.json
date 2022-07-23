@@ -5,11 +5,13 @@
   "useNx": false,
   "version": "independent",
   "command": {
-    "version": {
+    "publish": {
       "allowBranch": "master",
-      "conventionalCommits": true,
-      "yes": true,
-      "message": "chore(release): %s"
+      "conventionalCommits": true, 
+      "message": "chore(release): publish %s"
+    }, 
+    "version": { 
+      "push": false 
     }
   }
 }
