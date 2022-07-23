@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/thiagobrolly/lerna_ind/compare/@lerna_demo/lib_ind@2.0.0...@lerna_demo/lib_ind@2.1.0) (2022-07-23)
+
+
+### Features
+
+* **lib:** retornando valor mais 5 ([fb216b1](https://github.com/thiagobrolly/lerna_ind/commit/fb216b1af21823ff37b6dee5f300348fa71d8007))
+
+
+
+
+
 # [2.0.0](https://github.com/thiagobrolly/lerna_ind/compare/@lerna_demo/lib_ind@1.1.0...@lerna_demo/lib_ind@2.0.0) (2022-07-23)
 
 
