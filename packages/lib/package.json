@@ -1,0 +1,9 @@
+{
+  "name": "@lerna_demo/lib_ind",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}
