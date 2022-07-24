@@ -5,5 +5,8 @@
   "main": "index.js",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@lerna_demo/greeting": "^0.0.0"
   }
 }

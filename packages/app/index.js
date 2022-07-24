@@ -1,1 +1,3 @@
-console.log("Thiago Sousa do Nascimento");
+const greeting = require('@lerna_demo/greeting');
+
+console.log(greeting("Thiago"));
